@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Just another file created in feature-1 branch.
+=======
+This is another file in the feature subdirectory
+>>>>>>> feature-1
