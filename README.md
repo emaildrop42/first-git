@@ -1,3 +1,4 @@
 # first-git
 This is a discription
-ADD a line This file was modified locally
+
+This line was modified manually during conflict resolution
